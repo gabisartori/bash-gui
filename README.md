@@ -3,9 +3,18 @@
 ___
 ## Comandos disponíveis:
 <ul>
-    <li>Update</li>
-    <li>Upgrade</li>
-    <li>List --upgradable</li>
-    <li>Autoremove</li>
-    <li>Autoclean</li>
+    <li>Update
+    <li>Upgrade
+    <li>List --upgradable
+    <li>Autoremove
+    <li>Autoclean
+</ul>
+
+## Requisitos:
+<ul>
+    <li>Python: 3.5+
+    <li>Python modules:
+     <ul>
+      <li>tKinter
+    </ul>
 </ul>
